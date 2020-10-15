@@ -1,0 +1,144 @@
+{
+    "moviesCategory": [
+        {
+            "genreId": 1,
+            "genre":"Action",
+              "movies" :  [{
+                    "id": 1,
+                    "title": "What upon a time in China",
+                    "year": 2008
+                },
+                {
+                    "id": 2,
+                    "title": "Shaolin Temple",
+                    "year": 2006
+                }]
+        }, {
+            "genreId" : 2,
+            "genre":"Comedy",
+
+              "movies" : [
+                {
+                    "id": 1,
+                    "title": "Johhny Bravo",
+                    "year": 2010
+                },
+                {
+                    "id": 2,
+                    "title": "Mr Bean",
+                    "year": 2012
+                }
+               ] 
+            
+        },
+        {
+            "genreId" : 3,
+            "genre":"Adventure",
+
+              "movies" : [
+                {
+                    "id": 1,
+                    "title": "Johhny Walker",
+                    "year": 2018
+                },
+                {
+                    "id": 2,
+                    "title": "Mongo Park Travels",
+                    "year": 2020
+                }
+               ] 
+            
+        },
+        {
+            "genreId" : 4,
+            "genre":"Romance",
+
+              "movies" : [
+                {
+                    "id": 1,
+                    "title": "I love you",
+                    "year": 2017
+                },
+                {
+                    "id": 2,
+                    "title": "Mr Loverboy",
+                    "year": 2019
+                }
+               ] 
+            
+        },
+        {
+            "genreId" : 5,
+            "genre":"Crime",
+
+              "movies" : [
+                {
+                    "id": 1,
+                    "title": "The Murder",
+                    "year": 2010
+                },
+                {
+                    "id": 2,
+                    "title": "Capital Punishment",
+                    "year": 2012
+                }
+               ] 
+            
+        },
+        {
+            "genreId" : 6,
+            "genre":"Drama",
+
+              "movies" : [
+                {
+                    "id": 1,
+                    "title": "The Tempest",
+                    "year": 2010
+                },
+                {
+                    "id": 2,
+                    "title": "Mr Holier than tho",
+                    "year": 2011
+                }
+               ] 
+            
+        },
+        {
+            "genreId" : 7,
+            "genre":"Fantasy",
+
+              "movies" : [
+                {
+                    "id": 1,
+                    "title": "The Paradise Island",
+                    "year": 2003
+                },
+                {
+                    "id": 2,
+                    "title": "Uncaught",
+                    "year": 2005
+                }
+               ] 
+            
+        },
+        {
+            "genreId" : 8,
+            "genre":"Horror",
+
+              "movies" : [
+                {
+                    "id": 1,
+                    "title": "Don't Touch",
+                    "year": 2019
+                },
+                {
+                    "id": 2,
+                    "title": "The hunted House",
+                    "year": 2012
+                }
+               ] 
+            
+        }   
+            
+    ]        
+}
